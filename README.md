@@ -11,3 +11,7 @@ Once its done , send the request and get the output.To check the accuracy of the
 
  ## screenshot
 ![Screenshot 2023-11-28 153253](https://github.com/Sanjay19200/WeatherApi/assets/136919818/337ed415-6e21-4dca-ac0f-998b2ee87839)
+
+![Screenshot 2023-11-28 153426](https://github.com/Sanjay19200/WeatherApi/assets/136919818/dc35dd63-5601-4eaa-b013-ac4386d9c818)
+
+
