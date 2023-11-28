@@ -9,4 +9,5 @@ Add a query parameter 'city' with the value being the city.
 For example (city=Davangere).
 Once its done , send the request and get the output.To check the accuracy of the Output which contains the weather data by OpenWeatherMap.
 
+ ## screenshot
 ![Screenshot 2023-11-28 153253](https://github.com/Sanjay19200/WeatherApi/assets/136919818/337ed415-6e21-4dca-ac0f-998b2ee87839)
